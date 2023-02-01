@@ -1,2 +1,2 @@
 # SenacFrontend
-Conteúdo desenvolvido do curso de HTML e CSS
+Conteúdo desenvolvido no curso de HTML e CSS
