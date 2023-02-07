@@ -1,0 +1,19 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+h1{
+    color: red;
+    text-align: center;
+}
+
+.ap_pessoal {
+    
+    background-color: #ccc;
+    display: inline-block;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    
+}
